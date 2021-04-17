@@ -262,3 +262,8 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,webstorm,node
 uploads
+
+#https
+certrequest.csr
+ssl-cert.pem
+ssl-key.pem

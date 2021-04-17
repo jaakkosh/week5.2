@@ -1,13 +1,13 @@
 {
   "name": "week2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Choose a branch and download as zip.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Patrick Ausderau, Ilkka Kylmäniemi",
-  "license": "GPL-3",
+  "license": "UNLICENCED",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
@@ -22,5 +22,13 @@
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "sharp": "^0.28.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaakkosh/week5.2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaakkosh/week5.2/issues"
+  },
+  "homepage": "https://github.com/jaakkosh/week5.2#readme"
 }
